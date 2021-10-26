@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FCFACDB2-F75D-45F6-AF5A-1475474119CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.GetIdUserBex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GetIdUserBex/GetIdUserBex.cs">
+    <Files>
+      <File FileName="GetIdUserBex/GetIdUserBex.cs" Line="38" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GetIdUserBex" expanded="True">
+            <Node name="GetIdUserBex" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="GetIdUserBex.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
